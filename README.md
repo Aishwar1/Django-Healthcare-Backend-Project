@@ -30,6 +30,18 @@ The objective of this project is to build a secure healthcare backend system whe
 
 ---
 
+
+<img width="2541" height="1599" alt="image" src="https://github.com/user-attachments/assets/4382c556-29e0-40e1-9439-80e5c79d784d" />
+
+<img width="2003" height="1415" alt="image" src="https://github.com/user-attachments/assets/546b60a4-a4d1-4700-9925-d1c88d6a359c" />
+
+
+
+<img width="2350" height="1565" alt="image" src="https://github.com/user-attachments/assets/d5839d90-2a6c-402e-a1e4-866bf874e222" />
+
+
+
+
 # Features Implemented
 
 ## Authentication APIs
