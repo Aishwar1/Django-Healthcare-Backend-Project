@@ -35,7 +35,7 @@ The objective of this project is to build a secure healthcare backend system whe
 
 <img width="2003" height="1415" alt="image" src="https://github.com/user-attachments/assets/546b60a4-a4d1-4700-9925-d1c88d6a359c" />
 
-
+<img width="969" height="1280" alt="djangoBackend" src="https://github.com/user-attachments/assets/4d02d642-de37-44b5-b4c9-5c1250e64b5b" />
 
 <img width="2350" height="1565" alt="image" src="https://github.com/user-attachments/assets/d5839d90-2a6c-402e-a1e4-866bf874e222" />
 
